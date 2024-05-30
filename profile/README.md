@@ -8,9 +8,9 @@ Dealing with stress and depression is tough, and existing tools often fall short
 
 Here you can find links to our repositories which hold the various parts of our application and related tools:
 
-- **easemind-mobile https://github.com/Easemind-App/easemind-mobile** - Our mobile app's repository.
-- **easemind-ml https://github.com/Easemind-App/easemind-ml** - Our machine learning models repository.
-- **easemind-backend https://github.com/Easemind-App/easemind-backend** - Our backend repository.
+- **easemind-mobile -> https://github.com/Easemind-App/easemind-mobile** - Our mobile app's repository.
+- **easemind-ml -> https://github.com/Easemind-App/easemind-ml** - Our machine learning models repository.
+- **easemind-backend-> https://github.com/Easemind-App/easemind-backend** - Our backend repository.
 
 Feel free to explore and contribute!
 
@@ -29,7 +29,5 @@ Interested in contributing? We're always looking for passionate individuals who 
 ## Contact Us
 
 If you have any questions or would like to connect with us, feel free to reach out through [contact method].
-
-Follow us on [Twitter](#) | [LinkedIn](#) to stay updated with our latest activities.
 
 Thank you for visiting our GitHub organization!

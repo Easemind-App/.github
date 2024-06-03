@@ -19,7 +19,7 @@ Feel free to explore and contribute!
 Meet the incredible team behind our organization:
 
 - **Muhamad Rifqi Fahillah https://github.com/RifqiWasntHere** - CC | Cloud Computing Engineer.
-- **[Member Name 2](GitHub Profile Link)** - Role | A brief about the member.
+- **Dimitri Prima Nugraha https://github.com/dimitripn** - CC | Cloud Computing Engineer.
 - **[Member Name 3](GitHub Profile Link)** - Role | A brief about the member.
 
 ## Get Involved

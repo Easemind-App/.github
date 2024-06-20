@@ -20,8 +20,9 @@ Meet the incredible team behind our organization:
 
 - **Muhamad Rifqi Fahillah https://github.com/RifqiWasntHere** - CC | Cloud Computing Engineer.
 - **Dimitri Prima Nugraha https://github.com/dimitripn** - CC | Cloud Computing Engineer.
-- **[Member Name 3](GitHub Profile Link)** - Role | A brief about the member.
-
+- **Nisrina Zakiyah Aeni https://github.com/ririnzakiyahh** - MD | Mobole Development.
+- **Kaylee Rudaina Danisa https://github.com/kayleerudaina** - MD | Mobole Development.
+- 
 ## Get Involved
 
 Interested in contributing? We're always looking for passionate individuals who want to make a difference. Check out our [contributing guidelines](link to guidelines) and see how you can get involved.

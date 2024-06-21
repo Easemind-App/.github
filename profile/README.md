@@ -22,7 +22,9 @@ Meet the incredible team behind our organization:
 - **Dimitri Prima Nugraha https://github.com/dimitripn** - CC | Cloud Computing Engineer.
 - **Nisrina Zakiyah Aeni https://github.com/ririnzakiyahh** - MD | Mobole Development.
 - **Kaylee Rudaina Danisa https://github.com/kayleerudaina** - MD | Mobole Development.
-- 
+- **Bintan Dinar Artamevia https://github.com/bintandinar** - ML | Machine Learning.
+- **Rexcel Pabian https://github.com/rexcelpabian** - ML | Machine Learning.
+- **Kaysa Azzahra Adriana https://github.com/kaysaazzhra** - ML | Machine Learning.
 ## Get Involved
 
 Interested in contributing? We're always looking for passionate individuals who want to make a difference. Check out our [contributing guidelines](link to guidelines) and see how you can get involved.
